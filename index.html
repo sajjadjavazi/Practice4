@@ -10,6 +10,22 @@
 
 <body>
 
+    <div class="container">
+        <div class="input-form">
+            <input type="text" id="title" placeholder="Title">
+            <input type="text" id="description" placeholder="Description">
+            <input type="date" id="date">
+            <button id="submit">Submit</button>
+            <button id="update" style="display:none;">Update</button>
+            <select id="sortOrder">
+                <option value="newest">Newest</option>
+                <option value="oldest">Oldest</option>
+            </select>
+        </div>
+        <div id="entries">
+            <!-- Entries will be added here -->
+        </div>
+    </div>
 
     <script src="./asset/js/index.js"></script>
 </body>
