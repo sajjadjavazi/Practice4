@@ -11,9 +11,9 @@
 - Responsive Design: The application is designed to be responsive and user-friendly on both desktop and mobile devices.
 
 ## Technologies Used
-- HTML
-- CSS
-- JavaScript
+- HTML5
+- CSS3
+- JavaScript(ES6)
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or bug fixes.
